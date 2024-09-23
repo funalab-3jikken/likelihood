@@ -1,4 +1,4 @@
-PROG = helloSBML
+PROG = likelihood
 OBJS = main.o
 CC = gcc
 CFLAGS = -g -Wall -I./include
